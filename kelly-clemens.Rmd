@@ -1,0 +1,32 @@
+---
+title: "Dr Kelly Clemens"
+---
+
+
+<div>
+<div style="float:left; width:50%; padding:10px">
+![](./img/Kelly_Clemens.jpg)
+</div>
+
+<div style="float:right; width:50%; padding:10px">
+
+[Dr Kelly Clemens](http://www.psy.unsw.edu.au/contacts-people/research-staff/dr-kelly-clemens) investigates the behavioural and neural consequences of drug addiction.
+
+**What is your current role in the school, and how did you get here?**
+
+I am a Senior Research Fellow. I obtained my BSc (Zoology) and MSc (Anatomy and Structural Biology) from the University of Otago, NZ and moved to Sydney to work as a research assistant for two years before starting a PhD at the University of Sydney. This was followed by a short post-doc stint at UNSW (with Gavan McNally), then an overseas post-doc at the University of Bordeaux II in France. I returned to have my first child, then started a Macquarie University Research Fellowship, that was superseded by an ARC DECRA. I had my second child, then relocated my DECRA to UNSW and established of my own lab.
+
+**Why did you choose your specific research area, what excites you about your research?**
+
+I am a behavioural neuroscientist with a specific interest in the neurobiology and epigenetics of drug addiction. I have always been interested in biology, and in particular how the brain works. Drug addiction is a particularly pervasive disorder with political, social, psychological, neurobiological, epigenetic and genetic components. This makes it a particularly intriguing problem.
+
+**What do you hope to achieve from your research findings?**
+
+At the moment one of my main focuses is to demonstrate the importance of non-coding RNA in drug addiction. Non-coding RNA are little bits of RNA that are transcribed from our DNA, and that might have all sorts of functions that we didn't even know about until recently. One of these might be to interact with how the brain reacts to drugs of abuse. These sort of approaches raise the very real possibility of using gene therapy in the treatment of mental illness and neurological disease.
+
+**What has been your experience of undertaking research at UNSW in the School of Psychology?**
+
+The School of Psychology at UNSW is a fantastic environment to do my type of research. I can make use of the wealth of knowledge, expertise and techniques available in the School of Psychology, and at the same time pop next door to my collaborators in the School of Biotechnology and Biomolecular Sciences, and make use of the technical expertise in the Ramaciotti Centre for Genomics of the Mark Wainwright Analytical Centre.
+
+</div>
+</div>

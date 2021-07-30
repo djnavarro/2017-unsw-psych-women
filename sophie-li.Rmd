@@ -1,0 +1,32 @@
+---
+title: "Dr Sophie Li"
+---
+
+
+<div>
+<div style="float:left; width:50%; padding:10px">
+![](./img/Sophie_Li.jpg)
+</div>
+
+<div style="float:right; width:50%; padding:10px">
+
+[Dr Sophie Li](http://www.psy.unsw.edu.au/contacts-people/research-staff/dr-sophie-h-li) works in [Dr Bronwyn Graham’s](http://www.psy.unsw.edu.au/contacts-people/academic-staff/dr-bronwyn-graham) lab investigating the role of ovarian hormones in the development and maintenance of anxiety disorders and fatigue-related states (e.g., chronic fatigue syndrome, post-viral fatigue) in women.
+
+**What is your current role in the school, and how did you get here?**
+
+I am a Post-doctoral Research Associate in the School of Psychology. After completing my PhD and Masters in Clinical Psychology here at UNSW in 2008 I went on to work as a clinical psychologist in both public and private settings. I realised quickly that I missed the excitement that results from engaging in research projects, in having an idea and testing it out. Therefore, I jumped at the opportunity to be involved in research again when it came up. You could say I have come full circle!
+
+**Why did you choose your specific research area, what excites you about your research?**
+
+Translational neuroscience perfectly combines my neuroscience background and my more recent experiences working with clinical populations as a clinical psychologist. By doing this type of research, I am at the interface between the innovative and pivotal work being done in the labs and the application of that research in informing models of psychopathology and developing improved treatments. The exciting thing for me is that the work we do is contributing to our understanding of how neural processes might influence cognitive processes and behaviour.
+
+**What do you hope to achieve from your research findings?**
+
+I hope that the research we do in the Graham lab contributes to the development of sex-specific models of psychopathology and their treatments.
+
+**What has been your experience of undertaking research at UNSW in the School of Psychology?**
+
+My experiences at UNSW and the School of Psychology have been positive ones. I have always had supportive mentors and role models in the school and have found this to be especially important given my significant hiatus from research activities.
+
+</div>
+</div>

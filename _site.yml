@@ -1,0 +1,8 @@
+name: "International Women's Day 2017"
+output_dir: docs
+navbar:
+  left:
+    - text: "UNSW Women in Psychological Science"
+      href: https://unsw-psych-women.org
+    - text: "Home"
+      href: index.html
